@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Jul 24 15:30:15 2019
+Quartus Prime Version : 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+Revision Name : FPGA_TOP_DE2115
+Top-level Entity Name : FPGA_TOP_DE2115
+Family : Cyclone IV E
+Total logic elements : 1,039
+    Total combinational functions : 1,030
+    Dedicated logic registers : 179
+Total registers : 179
+Total pins : 108
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

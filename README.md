@@ -21,7 +21,9 @@ Boa sorte e bom jogo *=P*
 Seguem as seguintes sugestões como trabalhos futuros
 
 **Adicionar indicadores de placar**
+
 **Novos modos de jogo, 1 vs 1 e 1 vs PC**
+
 **Aumento da dificuldade ao decorrer do jogo. Conforme o aumento da quantidade de acertos por parte do jogador, aumentar a velocidade da esfera (bola)**
 
 # Saiba mais em:

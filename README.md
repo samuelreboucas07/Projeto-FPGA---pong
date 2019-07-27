@@ -16,6 +16,14 @@ Após a sintetização do projeto na placa, utiliza-se o **switch 0** para dar i
 
 Boa sorte e bom jogo *=P*
 
+# Trabalhos futuros
+
+Seguem as seguintes sugestões como trabalhos futuros
+
+**Adicionar indicadores de placar**
+**Novos modos de jogo, 1 vs 1 e 1 vs PC**
+**Aumento da dificuldade ao decorrer do jogo. Conforme o aumento da quantidade de acertos por parte do jogador, aumentar a velocidade da esfera (bola)**
+
 # Saiba mais em:
 
 A descrição completa do desenvolvimento encontra-se na página do projeto, localizada através do endereço eletrônico

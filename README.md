@@ -20,4 +20,4 @@ Boa sorte e bom jogo *=P*
 
 A descrição completa do desenvolvimento encontra-se na página do projeto, localizada através do endereço eletrônico
 
-# www.fpgiando.com.br
+# https://pong-fpga.github.io/
